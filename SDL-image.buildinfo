@@ -1,0 +1,2 @@
+cc-options: -I/usr/local/include/SDL2 -D_THREAD_SAFE
+ld-options: /usr/local/lib/libSDL_image.dylib
